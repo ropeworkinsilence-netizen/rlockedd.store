@@ -62,7 +62,7 @@ export default function ProductPageClient({ product, variants }: Props) {
 
       {isLowStock && (
         <div className="bg-brand-red/10 border border-brand-red/30 px-4 py-2 font-mono text-sm text-brand-red">
-          ⚩ ÚLTIMAS {selectedVariant?.quantityAvailable} UNIDADES
+          ⚡ ÚLTIMAS {selectedVariant?.quantityAvailable} UNIDADES
         </div>
       )}
 

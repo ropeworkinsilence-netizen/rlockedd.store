@@ -6,7 +6,7 @@ import Footer from '@/components/layout/Footer'
 import CartDrawer from '@/components/layout/CartDrawer'
 
 export const metadata: Metadata = {
-  title: { default: 'RLOCKEDD — Bootleg Culture', template: '%s | RLOCKEDD' },
+  title: { default: 'RLOCKEDD  -  Bootleg Culture', template: '%s | RLOCKEDD' },
   description: 'Prendas bootleg de edición limitada. Yankees, Marlboro, Camel, F1 90s. Cultura de la calle sin filtros.',
   keywords: ['bootleg', 'streetwear', 'yankees', 'ropa limitada', 'cultura urbana'],
   openGraph: {
